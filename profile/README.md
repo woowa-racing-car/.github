@@ -77,38 +77,12 @@ WebSocket을 통해 구현된 게임으로 실시간으로 통신하여, 사용�
 ## 🧑‍💻 팀원 소개
 | **이름** | **구현 파트**                                                                                       | 
 |:------:|:------------------------------------------------------------------------------------------------|
-|  정지환   | -                                                                                               | 
+|  정지환   | WebSocket 기반 실시간 게임 로직 전체 구축 </br> GameRoom/Player/Thread/RoomTier 구조 정비 </br> STOMP memberId 기반 인증체계 확립 </br> 프론트 Race 화면 실시간 움직임 연동                                                                                 | 
 |  하지명   | ERD 설계 </br> 마이페이지 조회 구현 </br> 게임 전적 및 승률 계산 구현 </br> 자동차 선택 및 구매 기능 구현 </br> 구현한 API 프론트엔드와 연동 |
-|  유아름   | -                                                                                               |
+|  유아름   | 전체 UI/UX 기획 및 화면 구성  </br> 인트로 영상 · 레이스 UI · 결과 화면 완성 </br> 대기방/레이스/결과 페이지 전체 흐름 구축 </br> 애니메이션, 리소스, 페이지 이동 구조 설계|
 
 
 ## 개발 환경
-### 프론트엔드
-- `React`
-- `JSX`
-- `Zustand`
-- `React Router DOM`
-- `Axios`
-- `WebSocket`
-- `Styled-Components` 
-
-### 백엔드
-- `Spring Security`
-- `JWT`
-- `JPA + Hibernate`
-- `STOMP`
-
-### 인프라 
-- `AWS EC2`
-- `Docker`
-- `GitHub Actions`
-
-### 협업툴
-- `GitHub`
-- `Figma`
-- `IntelliJ IDEA/VSCode`
-- `Postman`
-- `ERD Cloud`
 
 <table>
   <thead>
